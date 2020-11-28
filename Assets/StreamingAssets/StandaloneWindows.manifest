@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 189929287
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hoge
+      Dependencies: {}
